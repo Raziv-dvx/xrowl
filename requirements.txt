@@ -1,0 +1,4 @@
+pip install prettytable
+pip install chardet
+pip install requests
+
